@@ -1,3 +1,3 @@
 class Vote < ActiveRecord::Base
-	belongs_to :topicß
+	belongs_to :topic
 end
